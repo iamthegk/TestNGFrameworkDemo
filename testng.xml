@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test name="Banking">
+		<classes>
+			<class name="demo.TestNgDemo">
+				<methods>
+					<include name="demo"></include>
+				</methods>
+			</class>
+			<class name="demo.TestDemoo"></class>
+		</classes>
+	</test>
+
+	<test name="API">
+		<classes>
+			<class name="demo.Demo3">
+			<methods>
+				<exclude name="mob.*"/>
+			</methods>
+			</class>	
+		</classes>
+	</test>
+
+</suite>

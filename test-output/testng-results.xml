@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-17T20:04:07 IST" name="Suite" finished-at="2024-06-17T20:04:08 IST" duration-ms="215">
+    <groups>
+    </groups>
+    <test started-at="2024-06-17T20:04:07 IST" name="Banking" finished-at="2024-06-17T20:04:08 IST" duration-ms="215">
+      <class name="demo.TestDemoo">
+        <test-method signature="dummy()[pri:0, instance:demo.TestDemoo@708f5957]" started-at="2024-06-17T20:04:07 IST" name="dummy" finished-at="2024-06-17T20:04:07 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dummy -->
+      </class> <!-- demo.TestDemoo -->
+      <class name="demo.Demo3">
+        <test-method is-config="true" signature="beforeSuit()[pri:0, instance:demo.Demo3@3427b02d]" started-at="2024-06-17T20:04:07 IST" name="beforeSuit" finished-at="2024-06-17T20:04:07 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuit -->
+        <test-method is-config="true" signature="prerequisite()[pri:0, instance:demo.Demo3@3427b02d]" started-at="2024-06-17T20:04:07 IST" name="prerequisite" finished-at="2024-06-17T20:04:07 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prerequisite -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:demo.Demo3@3427b02d]" started-at="2024-06-17T20:04:07 IST" name="beforeMethod" finished-at="2024-06-17T20:04:07 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="ApiTest()[pri:0, instance:demo.Demo3@3427b02d]" started-at="2024-06-17T20:04:07 IST" name="ApiTest" finished-at="2024-06-17T20:04:07 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ApiTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:demo.Demo3@3427b02d]" started-at="2024-06-17T20:04:07 IST" name="afterMethod" finished-at="2024-06-17T20:04:07 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:demo.Demo3@3427b02d]" started-at="2024-06-17T20:04:07 IST" name="beforeMethod" finished-at="2024-06-17T20:04:07 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="loginApiTest()[pri:0, instance:demo.Demo3@3427b02d]" started-at="2024-06-17T20:04:07 IST" name="loginApiTest" finished-at="2024-06-17T20:04:07 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApiTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:demo.Demo3@3427b02d]" started-at="2024-06-17T20:04:07 IST" name="afterMethod" finished-at="2024-06-17T20:04:07 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:demo.Demo3@3427b02d]" started-at="2024-06-17T20:04:07 IST" name="beforeMethod" finished-at="2024-06-17T20:04:07 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="mobile1()[pri:0, instance:demo.Demo3@3427b02d]" started-at="2024-06-17T20:04:07 IST" name="mobile1" finished-at="2024-06-17T20:04:07 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobile1 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:demo.Demo3@3427b02d]" started-at="2024-06-17T20:04:07 IST" name="afterMethod" finished-at="2024-06-17T20:04:07 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="mobile2()[pri:0, instance:demo.Demo3@3427b02d]" started-at="2024-06-17T20:04:07 IST" name="mobile2" finished-at="2024-06-17T20:04:07 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobile2 -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:demo.Demo3@3427b02d]" started-at="2024-06-17T20:04:07 IST" name="beforeMethod" finished-at="2024-06-17T20:04:07 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:demo.Demo3@3427b02d]" started-at="2024-06-17T20:04:07 IST" name="afterMethod" finished-at="2024-06-17T20:04:07 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:demo.Demo3@3427b02d]" started-at="2024-06-17T20:04:07 IST" name="beforeMethod" finished-at="2024-06-17T20:04:07 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="mobile3()[pri:0, instance:demo.Demo3@3427b02d]" started-at="2024-06-17T20:04:07 IST" name="mobile3" finished-at="2024-06-17T20:04:07 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobile3 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:demo.Demo3@3427b02d]" started-at="2024-06-17T20:04:07 IST" name="afterMethod" finished-at="2024-06-17T20:04:07 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="postRequisite()[pri:0, instance:demo.Demo3@3427b02d]" started-at="2024-06-17T20:04:08 IST" name="postRequisite" finished-at="2024-06-17T20:04:08 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postRequisite -->
+        <test-method is-config="true" signature="afterSuit()[pri:0, instance:demo.Demo3@3427b02d]" started-at="2024-06-17T20:04:08 IST" name="afterSuit" finished-at="2024-06-17T20:04:08 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuit -->
+      </class> <!-- demo.Demo3 -->
+      <class name="demo.TestNgDemo">
+        <test-method signature="demo()[pri:0, instance:demo.TestNgDemo@68999068]" started-at="2024-06-17T20:04:07 IST" name="demo" finished-at="2024-06-17T20:04:07 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method signature="demo1()[pri:0, instance:demo.TestNgDemo@68999068]" started-at="2024-06-17T20:04:07 IST" name="demo1" finished-at="2024-06-17T20:04:08 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo1 -->
+      </class> <!-- demo.TestNgDemo -->
+    </test> <!-- Banking -->
+  </suite> <!-- Suite -->
+</testng-results>
