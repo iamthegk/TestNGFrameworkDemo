@@ -9,7 +9,7 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
 public class Demo3 {
-	@Test
+	@Test(groups = "smoke")
 	public void ApiTest() {
 		System.out.println("apiTest");
 	}
@@ -26,7 +26,7 @@ public class Demo3 {
 		System.out.println("Mob 2");
 	}
 	
-	@Test
+	@Test(groups = "smoke")
 	public void mobile3() {
 		System.out.println("Mob 3");
 	}
