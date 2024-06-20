@@ -1,5 +1,8 @@
 package demo;
 
+import static org.testng.Assert.assertTrue;
+
+import org.testng.Assert;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.AfterSuite;
 import org.testng.annotations.AfterTest;
@@ -24,6 +27,12 @@ public class Demo3 {
 	@Test
 	public void mobile2() {
 		System.out.println("Mob 2");
+	}
+	@Test
+	public void failTest() {
+		Assert.assertTrue(false);
+		// intentionally failing a test to check listener
+		
 	}
 	
 	@Test(groups = "smoke")
